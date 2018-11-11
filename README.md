@@ -8,3 +8,6 @@ Built in Python, during my 2nd Semester vacation, while I started to learn Pytho
 - Inspired from the tic-tac-toe board game in my home
 - built successfully within 24 hours.
 - my first project i done it myself.
+
+# Createed on
+- June 3, 2017
